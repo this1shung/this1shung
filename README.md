@@ -5,8 +5,8 @@ Hello! I'm Hung, a third-year Computer Science student, My passion lies in the w
 
 
 ###
-<a href="https://github.com/this1shung/Heart-disease-Prediction-With-Machine-Learning">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Heart-disease-Prediction-With-Machine-Learning&theme=radical" />
+<a href="https://github.com/this1shung/Heart-disease-Prediction">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Heart-disease-Prediction&theme=radical" />
 </a>    
 
 
