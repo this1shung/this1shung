@@ -7,7 +7,11 @@ Hello! I'm Hung, a third-year Computer Science student, My passion lies in the w
 ###
 <a href="https://github.com/this1shung/Heart-disease-Prediction">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Heart-disease-Prediction&theme=radical" />
-</a>    
+</a>
+<a href="https://github.com/this1shung/Bulldozer-SellPrice-Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=this1shung&repo=Bulldozer-SellPrice-Prediction&theme=merko" />
+</a>
 
 
 
