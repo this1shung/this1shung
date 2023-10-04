@@ -12,6 +12,10 @@ Hello! I'm Hung, a third-year Computer Science student, My passion lies in the w
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=this1shung&repo=Bulldozer-SellPrice-Prediction&theme=merko" />
 </a>
+<a href="https://github.com/this1shung/Titanic-Survived-Predict">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=this1shung&repo=Titanic-Survived-Predict&theme=gruvbox" />
+</a>
 
 
 
