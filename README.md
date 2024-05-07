@@ -9,10 +9,6 @@ Hello! I'm Hung, a third-year Computer Science student, My passion lies in the w
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Machine-Learning&theme=radical" />
 </a>
 
-<a href="https://github.com/this1shung/Data-Engineering-and-Big-Data">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Data-Engineering-and-Big-Data&theme=radical" />
-</a>    
-
 ## ⚡ Favorite languages and tools
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=this1shung&hide_progress=true&show_icons=true&theme=transparent)
