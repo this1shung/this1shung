@@ -5,9 +5,6 @@ Hello! I'm Hung, a third-year Computer Science student, My passion lies in the w
 
 
 ###
-<a href="https://github.com/this1shung/Machine-Learning">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=this1shung&repo=Machine-Learning&theme=radical" />
-</a>
 
 ## ⚡ Favorite languages and tools
 
